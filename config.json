@@ -1,0 +1,19 @@
+[
+  {
+    "camera_id": "18f5edf0-17a2-495a-8a73-9c901f9e2f64",
+    "rtsp_link": "rtsp://admin:123456@37.193.221.16:552/stream0",
+    "recording_period": {
+      "start": "03:55",
+      "end": "23:00"
+    },
+    "fps": 15,
+    "time_zone": "4",
+    "models": [
+      "counter_p_h"
+    ],
+    "markups": {
+      "counter_p_h": "gASVUgEAAAAAAABdlChdlCgoTZgFTSsDTZ8ETWEDdJQoTWYETaYCTaEETWEDdJRlXZQoKE1FBE1WAk2uA01nAnSUKE2FA03VAU2uA01nAnSUZV2UKChNggNNywFN9wJN6gF0lChN0QJNfgFN9wJN6QF0lGVdlCgoTUIDTVMBTeICTWUBdJQoTbACS8lN4wJNYgF0lGVlXZQoXZQoiUfAZPhxxkabIEdAKHjjm5ZOAoeUiEfAUisDVGDGk0dAWtT8q585bYeUZV2UKIlHwGW5GYK93eBHQBjcz6hERAqHlIhHwFKcgeeA7qxHQFpjfhh/EVSHlGVdlCiJR8Bk6NIUBo4PR0Apct6/lx8Zh5SIR8BRpoo9p+AMR0BbWXXCWB/0h5RlXZQoiUfAZSwryLLD1kdAJT1DdNPCo4eUiEfAUeQpzGmHcUdAWxvWM5Z4kIeUZWVNgAdNOASGlIeULg=="
+    },
+    "segment_duration": 30
+  }
+]
