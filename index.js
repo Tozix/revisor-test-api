@@ -1,6 +1,6 @@
+import cors from "cors";
 import express from "express";
 import fs from "fs";
-
 const app = express();
 
 const users = JSON.parse(fs.readFileSync("users.json", "utf-8"));
@@ -8,6 +8,7 @@ const albums = JSON.parse(fs.readFileSync("albums.json", "utf-8"));
 const photos = JSON.parse(fs.readFileSync("photos.json", "utf-8"));
 
 app.use(express.json());
+app.use(cors());
 
 // Эндпоинты
 app.get("/users/:userId", (req, res) => {
